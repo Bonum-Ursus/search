@@ -61,7 +61,7 @@ public class Directory {
     }
 
     public static void main(String[] args) {
-        System.out.println(walk("D:\\Торрент\\Doom\\DOOM by xatab"));
+        System.out.println(walk("D:\\Торрент\\"));
     }
 }
 
